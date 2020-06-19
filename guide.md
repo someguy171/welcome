@@ -1,7 +1,9 @@
 # someguy171's Guide to a new Windows 10 PC
-New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essential programs to use, and general advice!
+New to PC gaming, or Windows 10 in general?
 
-This guide will go through important information about a computer, the best apps to download, and the ways that game settings can affect performance. Although it is advised that you read through the guide at your own pace to understand and learn how to use your PC in the best way possible, only some steps require actual action. These are signified by a * in the table of contents.
+This guide will go through important information about a computer, the best apps to download, and the ways that game settings can affect performance. There is also some starting guidance if you want to record YouTube videos or stream to Twitch.
+
+Although it is advised that you read through the guide at your own pace to understand and learn how to use your PC in the best way possible, only some steps require actual action. These are signified by a * in the table of contents.
 
 ## Table of contents
 * Section 1 - Starting out
@@ -22,6 +24,10 @@ This guide will go through important information about a computer, the best apps
 * Section 5 - Game settings
   * [DPI and Sensitivity](#dpi-and-sensitivity)
   * [Game settings - what do they mean?](#game-settings---what-do-they-mean)
+* Section 6 - Making videos and streaming
+  * Disclaimer about streaming/recording
+  * Recording - making content for YouTube
+  * Streaming - Twitch and YouTube livestreams
 
 # Section 1 - Starting out
 
@@ -48,6 +54,8 @@ RAM - Random Access Memory stores programs that are currently being used. Having
 
 GPU - The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
 
+VRAM - Video RAM is a part of the GPU, and stores image data. Your GPU has a finite amount of it, so don't increase graphics settings past its maximum capacity.
+
 Motherboard - The body of the PC. All other components are seated on or are connected to the "mobo."
 
 Monitor - The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
@@ -55,9 +63,9 @@ Monitor - The screen that connects to your GPU in the PC. Usually 60Hz (fps), bu
 If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
 
 ## Initial admin
-Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
+Go to **Settings**, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
-Go to Settings, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
+Go to **Settings**, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
 
 # Section 2 - Organisation
 
@@ -218,3 +226,26 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 **Texture filtering** - Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
 
 Any other settings may be specific to your game. Some games will have a VRAM counter; make sure whatever you change doesn't make the counter go above its maximum. This can cause your game to crash.
+
+# Section 6 - Making Videos and Streaming
+
+## Disclaimer about streaming/recording
+
+Recording any kind of footage can be extremely taxing on your PC, especially if you're streaming at 1080p, 60fps.
+If you want to stream, and have a weaker build, you may need to decrease your in-game graphics settings, or be prepared to switch 720p or 30fps.
+
+You will also need adequate internet speed to stream; using an ethernet cable is strongly reccomended for any online gaaming and/or streaming.
+
+## Recording - Making content for YouTube
+
+First, download [OBS](https://obsproject.com/), a free recording software.
+
+Sources are where you get your inputs from. To set one up, right click in the empty `Sources` box, hover over `Add`, and select `Display Capture`. Enable `Create New`, and select `OK`. If you have multiple monitors, you can choose which monitor to capture. You can choose if you want to capture your cursor in the video too. Select `OK` when you're done. Your content will now capture everything on your screen.
+
+To capture your Audio output, right click in the empty `Sources` box, hover over `Add`, and select `Audio Output Capture`. Select `OK`, and choose your output.
+
+To capture your Audio input (your microphone), right click in the empty `Sources` box, hover over `Add`, and select `Audio Input Capture`. Select `OK`, and choose your input.
+
+To begin recording, select `Start Recording`, and press it again (now `Stop Recording`) to end. Go to File, Settings, Output, Recording. Under Recording Path, select `Browse`. Here you can choose where OBS will save your video once you have finished recording.
+
+Should you want to edit your video, you can use [Lightworks](https://www.lwks.com/index.php?option=com_lwks&view=download&Itemid=206). While complicated at first, Lightworks is a film-grade editing software that is free to use. Find tutoirals on YouTube to learn how to use it.
