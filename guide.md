@@ -1,6 +1,19 @@
 # someguy171's Guide to a new Windows 10 PC
 New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essential programs to use, and general advice!
 
+## Table of contents
+
+* [Pre-installed apps](#pre-installed-apps)
+* [Initial admin](#initial-admin)
+* [144Hz monitor?](#144hz-monitor)
+* [Two drives?](#two-drives)
+* [Downloading programs](#downloading-programs)
+* [Essential apps](#essential-apps)
+* [Other apps](#other-apps)
+* [Drivers](#drivers)
+* [Extensions for Firefox](#extensions-for-firefox)
+* [Changing settings for performance](#changing-settings-for-performance)
+
 ## Pre-installed apps
 
 Windows 10 uses many default apps that are essential for navigation, organisation and setup.
