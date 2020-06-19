@@ -30,10 +30,9 @@ Feature | Explanation
 Taskbar | The bar at the bottom. In the centre are the pinned apps. Pin apps by dragging them from File Explorer or the Desktop straight on top of the Taskbar.
 Start Menu | Access the Start Menu by pressing the Windows icon on the left of taskbar, where you can search for programs and files.
 Notification centre | View your internet settings, time/date, and notifications on the right of the taskbar.
+Auto-scroll | Middle-click to enable auto-scroll; move your mouse up and down to quickly glide through pages.
 
 If you having a gaming mouse, it could have side buttons. In web browsers and most apps, you can use two of these buttons to go back or forward one page. It can be different for every mouse, so test which ones work on your mouse.
-
-On most apps where you can scroll, pressing down on your scroll wheel will start using a dragging tool. Move your mouse up or down to very quickly glide through the page.
 
 ## Initial admin
 Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
@@ -163,4 +162,38 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
   - Settings, In-Game, **enable in-game FPS counter**
 - **Spotify**
   - Settings, Show Advanced Settings, turn off **Hardware Acceleration**
+
+# Section 5 - Game settings
+
+## DPI and Sensitivity
+
+DPI, or Dots Per Inch, is a hardware value for your mouse that changes how accurate it is. If you have a gaming mouse, it will have a DPI button that cycles through its pre-made DPI levels.
+
+Sensitivity, or 'sens' (pronounced sense), is the in-game speed of your mouse. In general, it's best to leave your DPI the same and change your sensitivity in the game.
+
+## Game settings - what do they mean?
+
+Window setting - Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
+
+Resolution - The number of pixels. Most monitors have 1920x1080 resolution. The lower the resolution, the worse the game will look, but the better it will run.
+
+Framerate - The number of times the screen refreshes every second. 60fps (frames per second) is standard; anything more requires a specialised monitor.
+
+Vsync - If your framerate is less than your monitor's refresh rate (e.g. game running at 20fps, monitor is 60Hz), you will see the [screen tear](https://imgur.com/eAcmiFC). This happens because the top and bottom of the screen are not synced. If you are experiencing screen tearing, turn Vsync on. Otherwise, leave it off.
+
+Field of View (FOV) - the angle, in degrees, that you can see. With a higher FOV, things in front of you will appear smaller, but you can see more to the left and right.
+
+Motion blur - Smears the edges of objects to accentuate camera movement. Leave this off - it drastically increases FPS.
+
+Global illumination - Mimics how light bounces from one object to another. Turning it off increases FPS.
+
+Depth of Field - Blurs objects that aren't in focus. Can be distracting, but doesn't impact FPS too much.
+
+SSAO/HBAO - Adjusts lighting to calculate how much light falls on an object. Can have a decent impact on FPS.
+
+Anti-aliasing - Blends colours and edges to mitigate the "jaggies" of diagonal lines. FXAA is fastest, but blurriest. MSAA is the most intelligent, but most taxing on FPS.
+
+Texture quality - Controls resolution of all textures. Mostly taxing on VRAM.
+
+Texture filtering - Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
 
