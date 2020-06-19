@@ -1,14 +1,28 @@
 # someguy171's Guide to a new Windows 10 PC
 New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essential programs to use, and general advice!
 
-## Some general knowledge
+## Pre-installed apps
 
 Windows 10 uses many default apps that are essential for navigation, organisation and setup.
+
+![winapps](https://i.imgur.com/qI8nk5a.png)
 
 ## First things first...
 Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
 Go to Settings, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
+
+## Using a 144Hz monitor?
+
+A 144Hz monitor will refresh 144 times every second, allowing for smoother visuals.
+Although HDMI 1.4 can support 144Hz, it will often cap at 120Hz. To take advantage of your monitor fully, use DisplayPort.
+
+Go to Settings, System, Display, and select `Advanced display settings`.
+Choose your main display (the 144Hz monitor), and make sure, next to `Refresh rate (Hz)`, it says `144Hz`.
+
+If it doesn't say this, select `Display adaptor properties for Display 1`.
+Navigate to the `Monitor` tab, and change the refesh rate to `144 Hertz`.
+If this option is not present, you may need to update your graphics drivers.
 
 ## Have two drives?
 
@@ -26,7 +40,7 @@ If you have an SSD for Windows, and another drive for extra storage, you'll want
 6. Name the folder what you're moving. In this case, rename it to `Desktop`. Be sure to capitalise properly.
 7. Select the newly made folder, and select `Select Folder`.
 8. Select `Apply`, then `Yes` in the window that pops up.
-9. Wait until the folder haas successfully moved, then press `OK`.
+9. Wait until the folder has successfully moved, then press `OK`.
 
 Repeat the above steps for all folders in the `This PC` section:
 
