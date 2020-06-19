@@ -7,12 +7,12 @@ Windows 10 uses many default apps that are essential for navigation, organisatio
 
 ![winapps](https://i.imgur.com/qI8nk5a.png)
 
-## First things first...
+## Initial admin
 Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
 Go to Settings, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
 
-## Using a 144Hz monitor?
+## 144Hz monitor?
 
 A 144Hz monitor will refresh 144 times every second, allowing for smoother visuals.
 Although HDMI 1.4 can support 144Hz, it will often cap at 120Hz. To take advantage of your monitor fully, use DisplayPort.
@@ -24,7 +24,7 @@ If it doesn't say this, select `Display adaptor properties for Display 1`.
 Navigate to the `Monitor` tab, and change the refesh rate to `144 Hertz`.
 If this option is not present, you may need to update your graphics drivers.
 
-## Have two drives?
+## Two drives?
 
 A drive is storage, either as a hard drive (spinning disc) or an SSD (electronic, no moving parts). They appear in File Explorer with a unique icon, and their names will have a drive letter - for example, (C:) or (D:).
 
@@ -59,7 +59,7 @@ Download the correct version, 32 bit or 64 bit. If you're not sure which to down
 
 ![downloading1](https://i.imgur.com/B06VbTy.png)
 
-## Essential Apps
+## Essential apps
 - [**Firefox**](https://www.mozilla.org/en-GB/firefox/new/): A lightweight browser with good extensions and customisability.
 
 - [**Discord**](https://discord.com/download): The best social app for gaming voice calls.
@@ -80,7 +80,7 @@ Download the correct version, 32 bit or 64 bit. If you're not sure which to down
 
 - [**4k Downloader**](https://www.4kdownload.com/products/product-videodownloader): Simple YouTube video downloader.
 
-## Other Apps
+## Other apps
 - [**Battle.net**](https://www.blizzard.com/en-gb/apps/battle.net/desktop): Launcher for Blizzard and Activision games.
 
 - [**Core Temp**](https://www.alcpu.com/CoreTemp/): Monitor your CPU temperature.
