@@ -1,22 +1,24 @@
 # someguy171's Guide to a new Windows 10 PC
 New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essential programs to use, and general advice!
 
+This guide will go through important information about a computer, the best apps to download, and the ways that game settings can affect performance. Although it is advised that you read through the guide at your own pace to understand and learn how to use your PC in the best way possible, only some steps require actual action. These are signified by a * in the table of contents.
+
 ## Table of contents
 * Section 1 - Starting out
   * [General knowledge](#general-knowledge)
   * [Important parts of a computer](#important-parts-of-a-computer)
-  * [Initial admin](#initial-admin)
+  * [*Initial admin](#initial-admin)
 * Section 2 - Organisation
-  * [144Hz monitor?](#144hz-monitor)
-  * [Two drives?](#two-drives)
+  * [*144Hz monitor?](#144hz-monitor)
+  * [*Two drives?](#two-drives)
 * Section 3 - Downloading important things
   * [Downloading programs](#downloading-programs)
   * [Essential apps](#essential-apps)
-  * [Drivers](#drivers)
+  * [*Drivers](#drivers)
 * Section 4 - The extra few steps
   * [Other apps](#other-apps)
   * [Extensions for Firefox](#extensions-for-firefox)
-  * [Changing settings for performance](#changing-settings-for-performance)
+  * [*Changing settings for performance](#changing-settings-for-performance)
 * Section 5 - Game settings
   * [DPI and Sensitivity](#dpi-and-sensitivity)
   * [Game settings - what do they mean?](#game-settings---what-do-they-mean)
