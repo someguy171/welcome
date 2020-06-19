@@ -2,28 +2,45 @@
 New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essential programs to use, and general advice!
 
 ## Table of contents
+* Section 1 - Starting out
+  * [General knowledge](#general-knowledge)
+  * [Initial admin](#initial-admin)
+* Section 2 - Organisation
+  * [144Hz monitor?](#144hz-monitor)
+  * [Two drives?](#two-drives)
+* Section 3 - Downloading important things
+  * [Downloading programs](#downloading-programs)
+  * [Essential apps](#essential-apps)
+  * [Drivers](#drivers)
+* Section 4 - The extra few steps
+  * [Other apps](#other-apps)
+  * [Extensions for Firefox](#extensions-for-firefox)
+  * [Changing settings for performance](#changing-settings-for-performance)
 
-* [Pre-installed apps](#pre-installed-apps)
-* [Initial admin](#initial-admin)
-* [144Hz monitor?](#144hz-monitor)
-* [Two drives?](#two-drives)
-* [Downloading programs](#downloading-programs)
-* [Essential apps](#essential-apps)
-* [Other apps](#other-apps)
-* [Drivers](#drivers)
-* [Extensions for Firefox](#extensions-for-firefox)
-* [Changing settings for performance](#changing-settings-for-performance)
+# Section 1 - Starting out
 
-## Pre-installed apps
+## General knowledge
 
 Windows 10 uses many default apps that are essential for navigation, organisation and setup.
 
 ![winapps](https://i.imgur.com/qI8nk5a.png)
 
+Feature | Explanation
+------- | -----------
+Taskbar | The bar at the bottom. In the centre are the pinned apps. Pin apps by dragging them from File Explorer or the Desktop straight on top of the Taskbar.
+Start Menu | Access the Start Menu by pressing the Windows icon on the left of taskbar, where you can search for programs and files.
+Notification centre | View your internet settings, time/date, and notifications on the right of the taskbar.
+
+If you having a gaming mouse, it could have side buttons. In web browsers and most apps, you can use two of these buttons to go back or forward one page. It can be different for every mouse, so test which ones work on your mouse.
+
+On most apps where you can scroll, pressing down on your scroll wheel will start using a dragging tool. Move your mouse up or down to very quickly glide through the page.
+
 ## Initial admin
 Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
 Go to Settings, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
+
+# Section 2 - Organisation
 
 ## 144Hz monitor?
 
@@ -67,12 +84,16 @@ Repeat the above steps for all folders in the `This PC` section:
 
 Be sure to rename the new folder (in step 6) correctly for each folder you're moving.
 
+# Section 3 - Downloading important things
+
 ## Downloading programs
 Download the correct version, 32 bit or 64 bit.
 
 Not sure which to download? 
 
 Go to Settings, System, About. Under `Device specifications`, `System type`, your architecture will be shown.
+
+View this image to see how to safely download programs:
 
 ![downloading1](https://i.imgur.com/B06VbTy.png)
 
@@ -124,6 +145,8 @@ For gamers, the most important driver is your GPU driver, or Graphics Drivers.
 6. Once it has finished, restart your PC.
 
 Check Nvidia Experience every few weeks for a new driver. Sometimes, games will run much worse if you aren't on the most recent driver.
+
+# Section 4 - The extra few steps
 
 ## Extensions for Firefox
 - [**Augmented Steam**](https://addons.mozilla.org/en-US/firefox/addon/enhanced-steam-an-itad-fork/): Check price history and current best deals for games on Steam.
