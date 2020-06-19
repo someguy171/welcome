@@ -4,6 +4,7 @@ New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essen
 ## Table of contents
 * Section 1 - Starting out
   * [General knowledge](#general-knowledge)
+  * [Important parts of a computer](#important-parts-of-a-computer)
   * [Initial admin](#initial-admin)
 * Section 2 - Organisation
   * [144Hz monitor?](#144hz-monitor)
@@ -37,6 +38,20 @@ Auto-scroll | Middle-click to enable auto-scroll; move your mouse up and down to
 
 If you having a gaming mouse, it could have side buttons. In web browsers and most apps, you can use two of these buttons to go back or forward one page. It can be different for every mouse, so test which ones work on your mouse.
 
+## Important parts of a computer
+
+CPU - The Central Processing Unit is the brain of the computer. Your CPU power is especially important in open world games.
+
+RAM - Random Access Memory stores programs that are currently being used. Having more RAM will allow you to have more apps open, like a game + music app + video app + Discord + more, without impacting general performance.
+
+GPU - The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
+
+Motherboard - The body of the PC. All other components are seated on or are connected to the "mobo."
+
+Monitor - The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
+
+If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
+
 ## Initial admin
 Go to Settings, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
@@ -46,10 +61,10 @@ Go to Settings, System, Display. Make sure your display resolution is good, and 
 
 ## 144Hz monitor?
 
-A 144Hz monitor will refresh 144 times every second, allowing for smoother visuals.
-Although HDMI 1.4 can support 144Hz, it will often cap at 120Hz. To take advantage of your monitor fully, use DisplayPort.
+A **144Hz monitor** will refresh 144 times every second, allowing for smoother visuals.
+Although HDMI 1.4 can support 144Hz, it will often cap at 120Hz. To take advantage of your monitor fully, use **DisplayPort**.
 
-Go to Settings, System, Display, and select `Advanced display settings`.
+Go to **Settings**, System, Display, and select `Advanced display settings`.
 Choose your main display (the 144Hz monitor), and make sure, next to `Refresh rate (Hz)`, it says `144Hz`.
 
 If it doesn't say this, select `Display adaptor properties for Display 1`.
@@ -58,13 +73,13 @@ If this option is not present, you may need to [update your graphics drivers](#d
 
 ## Two drives?
 
-A drive is storage, either as a hard drive (spinning disc) or an SSD (electronic, no moving parts). They appear in File Explorer with a unique icon, and their names will have a drive letter - for example, (C:) or (D:).
+A **drive** is storage, either as a *hard drive* (spinning disc) or an *SSD* (electronic, no moving parts). They appear in File Explorer with a unique icon, and their names will have a drive letter - for example, (C:) or (D:).
 
 If you only have one drive, you can skip this section.
 
 If you have an SSD for Windows, and another drive for extra storage, you'll want to clear as much space on the Windows drive as possible. While programs benefit greatly from the increased speed of a solid state drive, files generally don't. Keeping folders like Documents and Downloads on your SSD will take up too much space with little benefit.
 
-1. In File Explorer, navigate to `This PC` on the left-hand sidebar.
+1. In **File Explorer**, navigate to `This PC` on the left-hand sidebar.
 2. Right click the `Desktop` folder, and select `Properties`.
 3. Navigate to the `Location` tab, and select `Move...`.
 4. Select your hard drive. Your SSD will likely have a small Windows icon beside it, while the HDD does not.
@@ -93,7 +108,7 @@ Download the correct version, 32 bit or 64 bit.
 
 Not sure which to download? 
 
-Go to Settings, System, About. Under `Device specifications`, `System type`, your architecture will be shown.
+Go to **Settings**, System, About. Under `Device specifications`, `System type`, your architecture will be shown.
 
 View this image to see how to safely download programs:
 
@@ -135,11 +150,11 @@ View this image to see how to safely download programs:
 
 ## Drivers
 
-In basic terms, drivers are programs that allow your devices to work properly and effectively with Windows 10 and your programs/games. They are essential, especially if you want your PC to run new games well.
+In basic terms, **drivers** are programs that allow your devices to work properly and effectively with Windows 10 and your programs/games. They are essential, especially if you want your PC to run new games well.
 
-For gamers, the most important driver is your GPU driver, or Graphics Drivers.
+For gamers, the most important driver is your GPU driver, or **Graphics Drivers**.
 
-1. Open Nvidia Experience.
+1. Open **Nvidia Experience**.
 2. Navigate to the `DRIVERS` tab.
 3. Select `DOWNLOAD`.
 4. Once it has downloaded, select `EXPRESS INSTALLATION`.
@@ -170,33 +185,34 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 
 ## DPI and Sensitivity
 
-DPI, or Dots Per Inch, is a hardware value for your mouse that changes how accurate it is. If you have a gaming mouse, it will have a DPI button that cycles through its pre-made DPI levels.
+**DPI**, or Dots Per Inch, is a hardware value for your mouse that changes how accurate it is. If you have a gaming mouse, it will have a DPI button that cycles through its pre-made DPI levels.
 
-Sensitivity, or 'sens' (pronounced sense), is the in-game speed of your mouse. In general, it's best to leave your DPI the same and change your sensitivity in the game.
+**Sensitivity**, or 'sens' (pronounced sense), is the in-game speed of your mouse. In general, it's best to leave your DPI the same and change your sensitivity in the game.
 
 ## Game settings - what do they mean?
 
-Window setting - Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
+**Window setting** - Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
 
-Resolution - The number of pixels. Most monitors have 1920x1080 resolution. The lower the resolution, the worse the game will look, but the better it will run.
+**Resolution** - The number of pixels. Most monitors have 1920x1080 resolution. The lower the resolution, the worse the game will look, but the better it will run.
 
-Framerate - The number of times the screen refreshes every second. 60fps (frames per second) is standard; anything more requires a specialised monitor.
+**Framerate** - The number of times the screen refreshes every second. 60fps (frames per second) is standard; anything more requires a specialised monitor.
 
-Vsync - If your framerate is less than your monitor's refresh rate (e.g. game running at 20fps, monitor is 60Hz), you will see the [screen tear](https://imgur.com/eAcmiFC). This happens because the top and bottom of the screen are not synced. If you are experiencing screen tearing, turn Vsync on. Otherwise, leave it off.
+**Vsync** - If your framerate is less than your monitor's refresh rate (e.g. game running at 20fps, monitor is 60Hz), you will see the [screen tear](https://imgur.com/eAcmiFC). This happens because the top and bottom of the screen are not synced. If you are experiencing screen tearing, turn Vsync on. Otherwise, leave it off.
 
-Field of View (FOV) - the angle, in degrees, that you can see. With a higher FOV, things in front of you will appear smaller, but you can see more to the left and right.
+**Field of View** (FOV) - the angle, in degrees, that you can see. With a higher FOV, things in front of you will appear smaller, but you can see more to the left and right.
 
-Motion blur - Smears the edges of objects to accentuate camera movement. Leave this off - it drastically increases FPS.
+**Motion blur** - Smears the edges of objects to accentuate camera movement. Leave this off - it drastically increases FPS.
 
-Global illumination - Mimics how light bounces from one object to another. Turning it off increases FPS.
+**Global illumination** - Mimics how light bounces from one object to another. Turning it off increases FPS.
 
-Depth of Field - Blurs objects that aren't in focus. Can be distracting, but doesn't impact FPS too much.
+**Depth of Field** - Blurs objects that aren't in focus. Can be distracting, but doesn't impact FPS too much.
 
-SSAO/HBAO - Adjusts lighting to calculate how much light falls on an object. Can have a decent impact on FPS.
+**SSAO/HBAO** - Adjusts lighting to calculate how much light falls on an object. Can have a decent impact on FPS.
 
-Anti-aliasing - Blends colours and edges to mitigate the "jaggies" of diagonal lines. FXAA is fastest, but blurriest. MSAA is the most intelligent, but most taxing on FPS.
+**Anti-aliasing** - Blends colours and edges to mitigate the "jaggies" of diagonal lines. FXAA is fastest, but blurriest. MSAA is the most intelligent, but most taxing on FPS.
 
-Texture quality - Controls resolution of all textures. Mostly taxing on VRAM.
+**Texture quality** - Controls resolution of all textures. Mostly taxing on VRAM.
 
-Texture filtering - Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
+**Texture filtering** - Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
 
+Any other settings may be specific to your game. Some games will have a VRAM counter; make sure whatever you change doesn't make the counter go above its maximum. This can cause your game to crash.
