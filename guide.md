@@ -16,6 +16,9 @@ New to PC gaming, or Windows 10 in general? Here are some tips and tricks, essen
   * [Other apps](#other-apps)
   * [Extensions for Firefox](#extensions-for-firefox)
   * [Changing settings for performance](#changing-settings-for-performance)
+* Section 5 - Game settings
+  * [DPI and Sensitivity](#dpi-and-sensitivity)
+  * [Game settings - what do they mean?](#game-settings-what-do-they-mean)
 
 # Section 1 - Starting out
 
