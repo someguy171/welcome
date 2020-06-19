@@ -9,7 +9,7 @@ Go to Settings, System, Display. Make sure your display resolution is good, and 
 ## When downloading
 Download the correct version, 32 bit or 64 bit. If you're not sure which to download, check Settings, System, About. Under Device specifications, System type, your architecture will be shown.
 
-Download for Windows 10.
+![downloading1](https://imgur.com/i1Nb02I)
 
 ## Essential Apps
 - [**Firefox**](https://www.mozilla.org/en-GB/firefox/new/): A lightweight browser with good extensions and customisability.
