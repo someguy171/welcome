@@ -22,7 +22,7 @@ Choose your main display (the 144Hz monitor), and make sure, next to `Refresh ra
 
 If it doesn't say this, select `Display adaptor properties for Display 1`.
 Navigate to the `Monitor` tab, and change the refesh rate to `144 Hertz`.
-If this option is not present, you may need to update your graphics drivers.
+If this option is not present, you may need to [update your graphics drivers](#drivers).
 
 ## Two drives?
 
@@ -55,7 +55,11 @@ Repeat the above steps for all folders in the `This PC` section:
 Be sure to rename the new folder (in step 6) correctly for each folder you're moving.
 
 ## Downloading programs
-Download the correct version, 32 bit or 64 bit. If you're not sure which to download, check Settings, System, About. Under Device specifications, System type, your architecture will be shown.
+Download the correct version, 32 bit or 64 bit.
+
+Not sure which to download? 
+
+Go to Settings, System, About. Under `Device specifications`, `System type`, your architecture will be shown.
 
 ![downloading1](https://i.imgur.com/B06VbTy.png)
 
@@ -92,6 +96,21 @@ Download the correct version, 32 bit or 64 bit. If you're not sure which to down
 - [**Origin**](https://www.origin.com/gbr/en-us/store/download): Launcher for EA games.
 
 - [**Uplay**](https://uplay.ubisoft.com/en-GB): Launcher for Ubisoft games.
+
+## Drivers
+
+In basic terms, drivers are programs that allow your devices to work properly and effectively with Windows 10 and your programs/games. They are essential, especially if you want your PC to run new games well.
+
+For gamers, the most important driver is your GPU driver, or Graphics Drivers.
+
+1. Open Nvidia Experience.
+2. Navigate to the `DRIVERS` tab.
+3. Select `DOWNLOAD`.
+4. Once it has downloaded, select `EXPRESS INSTALLATION`.
+5. Wait until it has finished installing. Do not use your PC during this time.
+6. Once it has finished, restart your PC.
+
+Check Nvidia Experience every few weeks for a new driver. Sometimes, games will run much worse if you aren't on the most recent driver.
 
 ## Extensions for Firefox
 - [**Augmented Steam**](https://addons.mozilla.org/en-US/firefox/addon/enhanced-steam-an-itad-fork/): Check price history and current best deals for games on Steam.
