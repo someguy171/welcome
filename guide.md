@@ -72,6 +72,10 @@ Shortcut | Function
 Ctrl + C | Copies whatever is selected to the clipboard.
 Ctrl + V | Pastes whatever has been copied.
 Ctrl + Z | Undo.
+Ctrl + A | Select all.
+Win + L | Locks the computer.
+Ctrl + R | Restarts or reloads the app.
+Ctrl + Alt + Del | Opens a control menu. Has important functions like Task Manager and Lock Computer.
 Alt + Tab | Cycles through apps. Press and hold Alt, and continuously press Tab to select a new app. Let go of Alt to open the app.
 CapsLock | Inverts typing; all keys will become capital, and Shift + letter will type lower-case.
 Fn + Fx | At the top of the keyboard, there are many keys, each with F(number). If they have icons under them, hold Fn and press the key to use this function. (e.g. ⏯︎ under F11 means Fn + F11 pauses/plays music)
