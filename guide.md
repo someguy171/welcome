@@ -6,30 +6,45 @@ This guide will go through important information about a computer, the best apps
 Although it is advised that you read through the guide at your own pace to understand and learn how to use your PC in the best way possible, only some steps require actual action. These are signified by a * in the table of contents.
 
 ## Table of contents
-* Section 1 - Starting out
-  * [General knowledge](#general-knowledge)
+* Section 1 - The most important bits
   * [Important parts of a computer](#important-parts-of-a-computer)
+  * [General knowledge](#general-knowledge)
   * [*Initial admin](#initial-admin)
-* Section 2 - Organisation
   * [*144Hz monitor?](#144hz-monitor)
   * [*Two drives?](#two-drives)
-* Section 3 - Downloading important things
+* Section 2 - Downloading important things
   * [Downloading programs](#downloading-programs)
   * [Essential apps](#essential-apps)
   * [*Drivers](#drivers)
-* Section 4 - The extra few steps
+* Section 3 - The extra few steps
   * [Other apps](#other-apps)
   * [Extensions for Firefox](#extensions-for-firefox)
   * [*Changing settings for performance](#changing-settings-for-performance)
-* Section 5 - Game settings
+* Section 4 - Game settings
   * [DPI and Sensitivity](#dpi-and-sensitivity)
   * [Game settings - what do they mean?](#game-settings---what-do-they-mean)
-* Section 6 - Making videos and streaming
+* Section 5 - Making videos and streaming
   * Disclaimer about streaming/recording
   * Recording - making content for YouTube
   * Streaming - Twitch and YouTube livestreams
 
-# Section 1 - Starting out
+# Section 1 - The most important bits
+
+## Important parts of a computer
+
+Below are the most important components of a computer. If you ask for help in #tech-support, you'll likely be asked for the names of some of these components.
+Have them ready on a cheat sheet, or (even better) memorise them, even if you have no idea what they mean.
+
+Component | Purpose and features
+--------- | --------------------
+CPU | The Central Processing Unit is the brain of the computer. Your CPU power is especially important in open world games.
+RAM | Random Access Memory stores programs that are currently being used. Having more RAM will allow you to have more apps open, like a game + music app + video app + Discord + more, without impacting general performance.
+GPU | The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
+VRAM | Video RAM is a part of the GPU, and stores image data. Your GPU has a finite amount of it, so don't increase graphics settings past its maximum capacity.
+Motherboard | The body of the PC. All other components are seated on or are connected to the "mobo."
+Monitor | The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
+
+If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
 
 ## General knowledge
 
@@ -37,49 +52,38 @@ Windows 10 uses many default apps that are essential for navigation, organisatio
 
 ![winapps](https://i.imgur.com/qI8nk5a.png)
 
-Feature | Explanation
-------- | -----------
-Taskbar | The bar at the bottom. In the centre are the pinned apps. Pin apps by dragging them from File Explorer or the Desktop straight on top of the Taskbar.
-Start Menu | Access the Start Menu by pressing the Windows icon on the left of taskbar, where you can search for programs and files.
-Notification centre | View your internet settings, time/date, and notifications on the right of the taskbar.
-Auto-scroll | Middle-click to enable auto-scroll; move your mouse up and down to quickly glide through pages.
+There are also some basic features in Windows 10 to know about:
 
-If you having a gaming mouse, it could have side buttons. In web browsers and most apps, you can use two of these buttons to go back or forward one page. It can be different for every mouse, so test which ones work on your mouse.
-
-## Important parts of a computer
-
-CPU - The Central Processing Unit is the brain of the computer. Your CPU power is especially important in open world games.
-
-RAM - Random Access Memory stores programs that are currently being used. Having more RAM will allow you to have more apps open, like a game + music app + video app + Discord + more, without impacting general performance.
-
-GPU - The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
-
-VRAM - Video RAM is a part of the GPU, and stores image data. Your GPU has a finite amount of it, so don't increase graphics settings past its maximum capacity.
-
-Motherboard - The body of the PC. All other components are seated on or are connected to the "mobo."
-
-Monitor - The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
-
-If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
-
+- Taskbar
+  - The bar at the bottom. In the centre are the pinned apps. Pin apps by dragging them from File Explorer or the Desktop straight on top of the Taskbar.
+- Start Menu
+  - Access the Start Menu by pressing the Windows icon on the left of taskbar, where you can search for programs and files.
+- Notification centre
+  - View your internet settings, time/date, and notifications on the right of the taskbar.
+- Auto-scroll
+  - Middle-click to enable auto-scroll; move your mouse up and down to quickly glide through pages.
+- Side buttons
+  - Most gaming mice have side buttons. Use these to navigate forward or backwards in web browsers.
+ 
 ## Initial admin
+
 Go to **Settings**, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
 
 Go to **Settings**, System, Display. Make sure your display resolution is good, and change your settings as needed if you have multiple monitors.
 
-# Section 2 - Organisation
-
-## 144Hz monitor?
+## 144Hz monitor
 
 A **144Hz monitor** will refresh 144 times every second, allowing for smoother visuals.
 Although HDMI 1.4 can support 144Hz, it will often cap at 120Hz. To take advantage of your monitor fully, use **DisplayPort**.
+
+If you do not have a 144Hz monitor, you can skip this section.
 
 Go to **Settings**, System, Display, and select `Advanced display settings`.
 Choose your main display (the 144Hz monitor), and make sure, next to `Refresh rate (Hz)`, it says `144Hz`.
 
 If it doesn't say this, select `Display adaptor properties for Display 1`.
 Navigate to the `Monitor` tab, and change the refesh rate to `144 Hertz`.
-If this option is not present, you may need to [update your graphics drivers](#drivers).
+If this option is not available, you may need to [update your graphics drivers](#drivers).
 
 ## Two drives?
 
@@ -111,7 +115,7 @@ Repeat the above steps for all folders in the `This PC` section:
 
 Be sure to rename the new folder (in step 6) correctly for each folder you're moving.
 
-# Section 3 - Downloading important things
+# Section 2 - Downloading important things
 
 ## Downloading programs
 Download the correct version, 32 bit or 64 bit.
@@ -173,7 +177,7 @@ For gamers, the most important driver is your GPU driver, or **Graphics Drivers*
 
 Check Nvidia Experience every few weeks for a new driver. Sometimes, games will run much worse if you aren't on the most recent driver.
 
-# Section 4 - The extra few steps
+# Section 3 - The extra few steps
 
 ## Extensions for Firefox
 - [**Augmented Steam**](https://addons.mozilla.org/en-US/firefox/addon/enhanced-steam-an-itad-fork/): Check price history and current best deals for games on Steam.
@@ -191,7 +195,7 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 - **Spotify**
   - Settings, Show Advanced Settings, turn off **Hardware Acceleration**
 
-# Section 5 - Game settings
+# Section 4 - Game settings
 
 ## DPI and Sensitivity
 
@@ -201,33 +205,24 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 
 ## Game settings - what do they mean?
 
-**Window setting** - Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
-
-**Resolution** - The number of pixels. Most monitors have 1920x1080 resolution. The lower the resolution, the worse the game will look, but the better it will run.
-
-**Framerate** - The number of times the screen refreshes every second. 60fps (frames per second) is standard; anything more requires a specialised monitor.
-
-**Vsync** - If your framerate is less than your monitor's refresh rate (e.g. game running at 20fps, monitor is 60Hz), you will see the [screen tear](https://imgur.com/eAcmiFC). This happens because the top and bottom of the screen are not synced. If you are experiencing screen tearing, turn Vsync on. Otherwise, leave it off.
-
-**Field of View** (FOV) - the angle, in degrees, that you can see. With a higher FOV, things in front of you will appear smaller, but you can see more to the left and right.
-
-**Motion blur** - Smears the edges of objects to accentuate camera movement. Leave this off - it drastically increases FPS.
-
-**Global illumination** - Mimics how light bounces from one object to another. Turning it off increases FPS.
-
-**Depth of Field** - Blurs objects that aren't in focus. Can be distracting, but doesn't impact FPS too much.
-
-**SSAO/HBAO** - Adjusts lighting to calculate how much light falls on an object. Can have a decent impact on FPS.
-
-**Anti-aliasing** - Blends colours and edges to mitigate the "jaggies" of diagonal lines. FXAA is fastest, but blurriest. MSAA is the most intelligent, but most taxing on FPS.
-
-**Texture quality** - Controls resolution of all textures. Mostly taxing on VRAM.
-
-**Texture filtering** - Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
+Setting | What it does, impact on performance
+------- | -----------------------------------
+**Window setting** | Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
+**Resolution** | The number of pixels. Most monitors have 1920x1080 resolution. The lower the resolution, the worse the game will look, but the better it will run.
+**Framerate** | The number of times the screen refreshes every second. 60fps (frames per second) is standard; anything more requires a specialised monitor. If your monitor only supports up to 60fps, cap the in-game FPS to 60 or 61 to reduce stress on GPU (no point in making it go higher if you can't see it!)
+**Vsync** | If your framerate is less than your monitor's refresh rate (e.g. game running at 20fps, monitor is 60Hz), you will see the [screen tear](https://imgur.com/eAcmiFC). This happens because the top and bottom of the screen are not synced. If you are experiencing screen tearing, turn Vsync on. Otherwise, leave it off.
+**Field of View** (FOV) | The angle, in degrees, that you can see. With a higher FOV, things in front of you will appear smaller, but you can see more to the left and right. Has no impact on performance, just personal preference.
+**Motion blur** | Smears the edges of objects to accentuate camera movement. Leave this off - it drastically increases FPS.
+**Global illumination** | Mimics how light bounces from one object to another. Turning it off increases FPS.
+**Depth of Field** | Blurs objects that aren't in focus. Can be distracting, but doesn't impact FPS too much.
+**SSAO/HBAO** | Adjusts lighting to calculate how much light falls on an object. Can have a decent impact on FPS.
+**Anti-aliasing** | Blends colours and edges to mitigate the "jaggies" of diagonal lines. FXAA is fastest, but blurriest. MSAA is the most intelligent, but most taxing on FPS.
+**Texture quality** | Controls resolution of all textures. Mostly taxing on VRAM.
+**Texture filtering** | Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
 
 Any other settings may be specific to your game. Some games will have a VRAM counter; make sure whatever you change doesn't make the counter go above its maximum. This can cause your game to crash.
 
-# Section 6 - Making Videos and Streaming
+# Section 5 - Making Videos and Streaming
 
 ## Disclaimer about streaming/recording
 
