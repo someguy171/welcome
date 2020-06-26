@@ -8,7 +8,7 @@ Although it is advised that you read through the guide at your own pace to under
 ## Table of contents
 * Section 1 - The most important bits
   * [Important parts of a computer](#important-parts-of-a-computer)
-  * [General knowledge](#general-knowledge)
+  * [Important features and shortcuts](#important-features-and-shortcuts)
   * [*Initial admin](#initial-admin)
   * [*144Hz monitor?](#144hz-monitor)
   * [*Two drives?](#two-drives)
@@ -47,6 +47,7 @@ Component | Purpose and features
 If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
 
 ## Important features and shortcuts
+
 Windows 10 uses many default apps that are essential for navigation, organisation and setup. When I refer to these apps in the guide, look for the icon shown in the image below.
 
 ![winapps](https://i.imgur.com/qI8nk5a.png)
