@@ -198,12 +198,25 @@ Extension name | Function
 
 ## Changing settings for performance
 - **Discord**
-  - Settings, Appearance, **turn off Hardware Acceleration**
-  - Settings, Windows Settings, **turn off Open Discord**
+  - Settings, Appearance, turn off `Hardware Acceleration`
+  - Settings, Windows Settings, turn off `Open Discord`
 - **Steam**
-  - Settings, In-Game, **enable in-game FPS counter**
+  - Settings, In-Game, select an option under `In-game FPS counter`
+  - Settings, Downloads, select `UK - London` under `Download Region`
 - **Spotify**
-  - Settings, Show Advanced Settings, turn off **Hardware Acceleration**
+  - Settings, select `SHOW ADVANCED SETTINGS`, turn off `Enable hardware acceleration`
+- **Battle.net**
+  - Settings, General, disable `Launch Battle.net when you start your computer`
+  - Settings, General, select `Exit Battle.net` under `WHEN I CLICK 'X' AT THE TOP OF THE WINDOW`
+  - Settings, General, select `Exit Battle.net completely` under `WHEN I LAUNCH A GAME`
+- **Startup**
+  - When your PC starts up, some apps will open automatically. While this can be useful, it usually just slows your PC down and you'll end up closing everything that opens.
+  - To choose what opens and what doesn't
+    - Right click the Taskbar in an empty slot, and select `Task Manager`.
+    - Select `More details` in the bottom left (if it says `Fewer details`, ignore this step).
+    - Navigate to the `Start-up` tab at the top.
+    - In the `Status` column, it will say whether it will open on startup (Enabled) or not (Disabled).
+    - To change the status, right click the app, and select `Enable` or `Disable`.
 
 # Section 4 - Game settings
 
@@ -241,7 +254,7 @@ Any other settings may be specific to your game. Hover over / select them, and t
 Recording any kind of footage can be extremely taxing on your PC, especially if you're streaming at 1080p, 60fps.
 If you want to stream, and have a weaker build, you may need to decrease your in-game graphics settings, or be prepared to switch 720p or 30fps.
 
-You will also need adequate internet speed to stream; using an ethernet cable is strongly reccomended for any online gaaming and/or streaming.
+You will also need adequate internet speed to stream; using an ethernet cable is strongly reccomended for any online gaming and/or streaming.
 
 ## Recording - Making content for YouTube
 
