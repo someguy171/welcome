@@ -32,23 +32,22 @@ Although it is advised that you read through the guide at your own pace to under
 
 ## Important parts of a computer
 
-Below are the most important components of a computer. If you ask for help in #tech-support, you'll likely be asked for the names of some of these components.
+Below are the most important components of a computer. If you ask for help in #💻tech-support, you'll likely be asked for the names of some of these components.
 Have them ready on a cheat sheet, or (even better) memorise them, even if you have no idea what they mean.
 
 Component | Purpose and features
 --------- | --------------------
-CPU | The Central Processing Unit is the brain of the computer. Your CPU power is especially important in open world games.
-RAM | Random Access Memory stores programs that are currently being used. Having more RAM will allow you to have more apps open, like a game + music app + video app + Discord + more, without impacting general performance.
-GPU | The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
-VRAM | Video RAM is a part of the GPU, and stores image data. Your GPU has a finite amount of it, so don't increase graphics settings past its maximum capacity.
-Motherboard | The body of the PC. All other components are seated on or are connected to the "mobo."
-Monitor | The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
+**CPU** | The Central Processing Unit is the brain of the computer. Your CPU power is especially important in open world games.
+**RAM** | Random Access Memory stores programs that are currently being used. Having more RAM will allow you to have more apps open, like a game + music app + video app + Discord + more, without impacting general performance.
+**GPU** | The Graphics Processing Unit handles visuals. Your GPU is the most influential for performance in PC games.
+**VRAM** | Video RAM is a part of the GPU, and stores image data. Your GPU has a finite amount of it, so don't increase graphics settings past its maximum capacity.
+**Motherboard** | The body of the PC. All other components are seated on or are connected to the "mobo."
+**Monitor** | The screen that connects to your GPU in the PC. Usually 60Hz (fps), but can be 120Hz or 144Hz.
 
 If you want to find out these parts' names, specs or details, use CPU-Z (in [Other apps](#other-apps)).
 
-## General knowledge
-
-Windows 10 uses many default apps that are essential for navigation, organisation and setup.
+## Important features and shortcuts
+Windows 10 uses many default apps that are essential for navigation, organisation and setup. When I refer to these apps in the guide, look for the icon shown in the image below.
 
 ![winapps](https://i.imgur.com/qI8nk5a.png)
 
@@ -64,7 +63,19 @@ There are also some basic features in Windows 10 to know about:
   - Middle-click to enable auto-scroll; move your mouse up and down to quickly glide through pages.
 - Side buttons
   - Most gaming mice have side buttons. Use these to navigate forward or backwards in web browsers.
- 
+
+There are also some essential shortcuts to get used to:
+
+Shortcut | Function
+-------- | --------
+Ctrl + C | Copies whatever is selected to the clipboard.
+Ctrl + V | Pastes whatever has been copied.
+Ctrl + Z | Undo.
+Alt + Tab | Cycles through apps. Press and hold Alt, and continuously press Tab to select a new app. Let go of Alt to open the app.
+CapsLock | Inverts typing; all keys will become capital, and Shift + letter will type lower-case.
+Fn + Fx | At the top of the keyboard, there are many keys, each with F(number). If they have icons under them, hold Fn and press the key to use this function. (e.g. ⏯︎ under F11 means Fn + F11 pauses/plays music)
+Alt + F4 | Closes the active app. (**Don't get fooled into using this in online games!**)
+
 ## Initial admin
 
 Go to **Settings**, Update & Security, Windows Update, and select `Check for Updates`. Wait for the updates to download, and restart your PC as many times as needed.
@@ -129,38 +140,34 @@ View this image to see how to safely download programs:
 ![downloading1](https://i.imgur.com/B06VbTy.png)
 
 ## Essential apps
-- [**Firefox**](https://www.mozilla.org/en-GB/firefox/new/): A lightweight browser with good extensions and customisability.
 
-- [**Discord**](https://discord.com/download): The best social app for gaming voice calls.
+The following apps are my must-haves. If you have limited RAM, don't use Chrome!
 
-- [**Steam**](https://store.steampowered.com/about/): The biggest and most popular marketplace for games, made by Valve.
-
-- [**Spotify**](https://www.spotify.com/uk/download/): Music streaming service.
-
-- [**EarTrumpet**](https://www.microsoft.com/en-gb/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab): Volume control. (drag it to taskbar from ^ menu)
-
-- [**GeForce Experience**](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/): Drivers and game optimisation. (**Nvidia / GeForce GPU only.**)
-
-- [**Radeon Graphics Drivers**](https://www.amd.com/en/support): Auto-detects GPU and downloads drivers. (**AMD / Radeon GPU only.**)
-
-- [**Everything**](https://www.voidtools.com/downloads/): Quickly search through all files on your drive(s)
-
-- [**WinRAR**](https://www.rarlab.com/download.htm): Unzip / archive files.
-
-- [**4k Downloader**](https://www.4kdownload.com/products/product-videodownloader): Simple YouTube video downloader.
+App name | Function
+-------- | --------
+[**Firefox**](https://www.mozilla.org/en-GB/firefox/new/) | A lightweight browser with good extensions and customisability.
+[**Discord**](https://discord.com/download) | The best social app for gaming voice calls.
+[**Steam**](https://store.steampowered.com/about/) | The biggest and most popular marketplace for games, made by Valve.
+[**Spotify**](https://www.spotify.com/uk/download/) | Music streaming service.
+[**EarTrumpet**](https://www.microsoft.com/en-gb/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab) | Volume control. (drag it to taskbar from ^ menu)
+[**GeForce Experience**](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) | Drivers and game optimisation. (**Nvidia / GeForce GPU only.**)
+[**Radeon Graphics Drivers**](https://www.amd.com/en/support) | Auto-detects GPU and downloads drivers. (**AMD / Radeon GPU only.**)
+[**Everything**](https://www.voidtools.com/downloads/) | Quickly search through all files on your drive(s)
+[**WinRAR**](https://www.rarlab.com/download.htm) | Unzip / archive files.
+[**4k Downloader**](https://www.4kdownload.com/products/product-videodownloader) | Simple YouTube video downloader.
 
 ## Other apps
-- [**Battle.net**](https://www.blizzard.com/en-gb/apps/battle.net/desktop): Launcher for Blizzard and Activision games.
 
-- [**Core Temp**](https://www.alcpu.com/CoreTemp/): Monitor your CPU temperature.
+The following apps are not essential, but are nice to have.
 
-- [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html): Find information about your PC.
-
-- [**Epic Games Store**](https://www.epicgames.com/store/en-US/download): Free game(s) every week (as of May 2020).
-
-- [**Origin**](https://www.origin.com/gbr/en-us/store/download): Launcher for EA games.
-
-- [**Uplay**](https://uplay.ubisoft.com/en-GB): Launcher for Ubisoft games.
+App name | Function
+-------- | --------
+[**Battle.net**](https://www.blizzard.com/en-gb/apps/battle.net/desktop) | Launcher for Blizzard and Activision games.
+[**Core Temp**](https://www.alcpu.com/CoreTemp/) | Monitor your CPU temperature.
+[**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) | Find information about your PC.
+[**Epic Games Store**](https://www.epicgames.com/store/en-US/download) | Free game(s) every week (as of May 2020).
+[**Origin**](https://www.origin.com/gbr/en-us/store/download) | Launcher for EA games.
+[**Uplay**](https://uplay.ubisoft.com/en-GB) | Launcher for Ubisoft games.
 
 ## Drivers
 
@@ -180,11 +187,14 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 # Section 3 - The extra few steps
 
 ## Extensions for Firefox
-- [**Augmented Steam**](https://addons.mozilla.org/en-US/firefox/addon/enhanced-steam-an-itad-fork/): Check price history and current best deals for games on Steam.
 
-- [**Enhancer for YouTube**](https://addons.mozilla.org/en-GB/firefox/addon/enhancer-for-youtube/): Miniplayer while browsing, change skin, more tools.
+Extensions are like add-ons. They add extra features to your browser / sites.
 
-- [**uBlock Origin**](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/): Super simple adblocker.
+Extension name | Function
+-------------- | --------
+[**Augmented Steam**](https://addons.mozilla.org/en-US/firefox/addon/enhanced-steam-an-itad-fork/) | Check price history and current best deals for games on Steam.
+[**Enhancer for YouTube**](https://addons.mozilla.org/en-GB/firefox/addon/enhancer-for-youtube/) | Miniplayer while browsing, change skin, more tools.
+[**uBlock Origin**](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) | Super simple adblocker.
 
 ## Changing settings for performance
 - **Discord**
@@ -205,6 +215,8 @@ Check Nvidia Experience every few weeks for a new driver. Sometimes, games will 
 
 ## Game settings - what do they mean?
 
+Unlike console, PC games allow you to fine tune your gaming experience. Most games will have presets, like "Medium" or "Ultra," but you can also edit each setting to play exactly how you want. Some impact performance a lot, so its good to know what each one does to balance pretty visuals and decent framerate.
+
 Setting | What it does, impact on performance
 ------- | -----------------------------------
 **Window setting** | Windowed (worst) is a regular window, like a browser. Fullscreen (best) maximises the resolution to fit your screen. Borderless Windowed (equal to fullscreen) looks like Fullscreen, but allows you to move the mouse out of the game.
@@ -220,7 +232,7 @@ Setting | What it does, impact on performance
 **Texture quality** | Controls resolution of all textures. Mostly taxing on VRAM.
 **Texture filtering** | Reduces texture quality into the distance smoothly. It's old tech, so leave it at maximum and it still won't impact performance too much.
 
-Any other settings may be specific to your game. Some games will have a VRAM counter; make sure whatever you change doesn't make the counter go above its maximum. This can cause your game to crash.
+Any other settings may be specific to your game. Hover over / select them, and the game will likely tell you what it does. Some games will have a VRAM counter; make sure whatever you change doesn't make the counter go above its maximum. This can cause your game to crash.
 
 # Section 5 - Making Videos and Streaming
 
