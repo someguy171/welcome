@@ -218,6 +218,7 @@ Extension name | Function
     - Navigate to the `Start-up` tab at the top.
     - In the `Status` column, it will say whether it will open on startup (Enabled) or not (Disabled).
     - To change the status, right click the app, and select `Enable` or `Disable`.
+    - If you don't know what it is or what it does, leave it as it is
 
 # Section 4 - Game settings
 
